@@ -11,6 +11,16 @@
     margin:0 auto;
     background:#4B0082;
 }
+.left{
+    width:400px;height:500px;
+    background:#ADFF2F;
+    float:left;
+}
+.right{
+    width:600px;height:500px;
+    background:#FFA500;
+    float:right;
+}
 .bot{
     width:1000px;height:300px;
     margin:0 auto;
